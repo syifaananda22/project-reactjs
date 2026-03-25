@@ -1,16 +1,47 @@
-# React + Vite
+# Wacana Team Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Wacana Team Website** adalah sebuah project profil tim yang dibangun menggunakan **React.js** dan **Tailwind CSS**. Website ini dirancang untuk menampilkan informasi lengkap mengenai anggota tim, menampilkan halaman Home, Team, Profiles, dan Connect, serta menggunakan **Navbar** dan **Footer** yang konsisten di seluruh halaman. Layout dibuat responsif dan modern agar nyaman diakses di berbagai perangkat.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Tujuan Project
 
-## React Compiler
+Tujuan utama dari website ini adalah untuk:
+- Menyajikan profil anggota tim secara profesional dan terstruktur.
+- Memberikan pengalaman navigasi yang intuitif melalui Navbar dengan menu **Home**, **Team**, **Profiles**, dan **Connect**.
+- Menunjukkan kemampuan pengembangan front-end menggunakan React.js dan styling modern dengan Tailwind CSS.
+- Menampilkan informasi yang mudah dipahami, seperti foto profil, biodata, skill, dan kontak profesional.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Fitur Utama
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Home Page**: Halaman awal menampilkan welcome message dan deskripsi singkat mengenai tim, memberikan kesan profesional dan informatif.
+- **Profil Individual**: Setiap anggota tim memiliki halaman profil sendiri dengan foto, biodata, kemampuan, dan kontak yang mudah diakses.
+- **Navigasi Lengkap**: Navbar yang konsisten mempermudah user berpindah antar halaman seperti Home, Team, Profiles, dan Connect.
+- **Footer Informatif**: Menampilkan informasi tim, fakultas, universitas, lokasi, dan hak cipta.
+- **Responsif dan Modern**: Menggunakan Tailwind CSS untuk desain yang bersih, modern, dan mudah dikembangkan.
+
+---
+
+## 🗂 Struktur Project
+
+
+src/
+├─ pages/ # Berisi Home.jsx, Syifa.jsx, Wawa.jsx, Evellyn.jsx
+├─ components/ # Navbar.jsx, Footer.jsx
+├─ assets/ # Foto dan gambar
+├─ App.jsx # Routing dan struktur utama
+└─ index.jsx # Entry point React
+
+
+Struktur ini menjaga keteraturan project, memudahkan pengembangan, dan memastikan konsistensi antar halaman.
+
+---
+
+## 💻 Teknologi yang Digunakan
+
+- **React.js**: Library JavaScript untuk membangun antarmuka interaktif dan dinamis.
+- **React Router DOM**: Untuk routing antar halaman dengan seamless tanpa reload.
+- **Tailwind CSS**: Utility-first CSS framework untuk styling cepat dan konsisten.
+- **JavaScript Modern (ES6+)**: Untuk logika dan interaktivitas front-end.
