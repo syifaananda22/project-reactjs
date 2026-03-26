@@ -135,12 +135,12 @@ export default function Evellyn() {
               <svg className="w-4 h-4 fill-pink-400" viewBox="0 0 24 24">
                 <path d="M6.6 10.8c1.5 3 3.7 5.2 6.7 6.7l2.2-2.2c.3-.3.7-.4 1.1-.3 1.2.4 2.5.6 3.8.6.6 0 1 .4 1 1v3.5c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.6.6 3.8.1.4 0 .8-.3 1.1l-2.6 2.7z"/>
               </svg>
-              81818140294
+              081818140294
             </div>
 
           </div>
 
-          {/* QUOTES 🔥 */}
+          {/* QUOTES  */}
           <div className="bg-white p-6 rounded-2xl shadow italic text-gray-500 text-sm">
             “Berusaha dan Berdoa.”
           </div>

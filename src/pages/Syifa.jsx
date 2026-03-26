@@ -140,7 +140,7 @@ export default function Syifa() {
 
           </div>
 
-          {/* QUOTES 🔥 */}
+          {/* QUOTES  */}
           <div className="bg-white p-6 rounded-2xl shadow italic text-gray-500 text-sm">
             “Success is not about being the best, 
             but about always getting better.”
