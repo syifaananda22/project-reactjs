@@ -82,10 +82,10 @@ export default function Wawa() {
             <h2 className="font-bold text-pink-500 mb-4">Biodata</h2>
 
             <div className="grid grid-cols-2 gap-4 text-gray-600">
-              <p><b>Nama:</b> Uus Uswatun</p>
-              <p><b>Universitas:</b> Universitas Brawijaya</p>
-              <p><b>Jurusan:</b>Teknologi Informasi</p>
-              <p><b>Fakultas:</b> Vokasi</p>
+             <p><b>Nama:</b> Uus Uswatun</p>
+              <p><b>Kelas:</b> T2G</p>
+              <p><b>Domisili:</b> Lampung</p>
+              <p><b>Asal Sekolah:</b> SMAN 1 Pringsewu</p>
             </div>
           </div>
 
