@@ -1,3 +1,6 @@
+# 📷Gambar Tampilan Website
+https://drive.google.com/drive/folders/1SKkAqKsoFqzTx4LpfPGfc9_X4sZaI3bb
+
 # Wacana Team Website
 
 **Wacana Team Website** adalah sebuah project profil tim yang dibangun menggunakan **React.js** dan **Tailwind CSS**. Website ini dirancang untuk menampilkan informasi lengkap mengenai anggota tim, menampilkan halaman Home, Team, Profiles, dan Connect, serta menggunakan **Navbar** dan **Footer** yang konsisten di seluruh halaman. Layout dibuat responsif dan modern agar nyaman diakses di berbagai perangkat.
