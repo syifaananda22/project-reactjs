@@ -95,7 +95,8 @@ export default function Wawa() {
             <h2 className="font-bold text-pink-500 mb-4">Skills</h2>
 
             {[
-              { name: "Project Collaboration", level: "85%" },
+              { name: "Project Collaboration", level: "85 git add src/pages/Wawa.jsx
+                %" },
               { name: "UI/UX Design", level: "75%" },
               { name: "Website Design", level: "60%" },
             ].map((skill, i) => (
