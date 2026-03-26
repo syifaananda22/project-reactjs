@@ -86,7 +86,7 @@ export default function Syifa() {
 
             <div className="grid grid-cols-2 gap-4 text-gray-600">
               <p><b>Nama:</b> Syifa Ananda Sukmana</p>
-              <p><b>Kelas:</b> T2-G </p>
+              <p><b>Kelas:</b> T2G </p>
               <p><b>Domisili:</b> Jakarta Selatan</p>
               <p><b>Asal Sekolah:</b> SMKN 8 Jakarta</p>
             </div>
