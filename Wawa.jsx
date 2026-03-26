@@ -73,7 +73,7 @@ export default function Wawa() {
           <div className="bg-white p-6 rounded-2xl shadow hover:shadow-xl transition">
             <h2 className="font-bold text-pink-500 mb-2">About</h2>
             <p className="text-gray-600 text-justify">
-              Saya merupakan mahasiswa Teknologi Informasi yang memiliki minat dalam pengembangan web dan teknologi digital. Saya senang mempelajari hal baru, mampu bekerja dalam tim, serta terus mengembangkan kemampuan untuk mengikuti perkembangan dunia IT.
+              Saya merupakan mahasiswa Teknologi Informasi yang memiliki minat dalam pengembangan website dan teknologi digital. Saya senang mempelajari hal baru, mampu bekerja dalam tim, serta terus mengembangkan kemampuan untuk mengikuti perkembangan dunia Teknologi.
             </p>
           </div>
 
@@ -95,8 +95,7 @@ export default function Wawa() {
             <h2 className="font-bold text-pink-500 mb-4">Skills</h2>
 
             {[
-              { name: "Project Collaboration", level: "85 git add src/pages/Wawa.jsx
-                %" },
+              { name: "Project Collaboration", level: "85%" }, 
               { name: "UI/UX Design", level: "75%" },
               { name: "Website Design", level: "60%" },
             ].map((skill, i) => (
@@ -141,7 +140,7 @@ export default function Wawa() {
 
           {/* QUOTES */}
           <div className="bg-white p-6 rounded-2xl shadow italic text-gray-500 text-sm">
-            “life is too short to live with a negative mindset. be happy, let it go, be free, be positive, change, be kind and make life worth living”
+            “life is too short to live with a negative mindset. be happy, let it go, be free, be positive, change, be kind and make life worth living.”
           </div>
 
         </div>
