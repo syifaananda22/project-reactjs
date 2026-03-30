@@ -53,3 +53,30 @@ Struktur ini menjaga keteraturan project, memudahkan pengembangan, dan memastika
 - **React Router DOM**: Untuk routing antar halaman dengan seamless tanpa reload.
 - **Tailwind CSS**: Utility-first CSS framework untuk styling cepat dan konsisten.
 - **JavaScript Modern (ES6+)**: Untuk logika dan interaktivitas front-end.
+
+---
+
+# ⚡ Cara Menjalankan Project
+
+Berikut langkah-langkah untuk menjalankan project Wacana Team Website di lokal:
+
+## 1. Clone Repository
+Clone repository project dari GitHub:
+```bash
+git clone <link-repo-anda>
+
+## 2. Masuk ke Folder Project
+Masuk ke folder project hasil clone:
+cd nama-folder-project
+
+## 3. Install Dependencies
+Install semua dependencies yang dibutuhkan:
+npm install
+
+## 4. Jalankan Project
+Jalankan project menggunakan Vite:
+npm run dev
+
+Setelah dijalankan, website dapat diakses melalui browser di:
+http://localhost:5173 (default Vite)
+
