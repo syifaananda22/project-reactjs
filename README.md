@@ -1,3 +1,10 @@
+# 📄 Laporan Project
+Project ini dilengkapi dengan laporan tertulis yang menjelaskan seluruh proses pengembangan, mulai dari latar belakang, tujuan, desain, implementasi, hingga hasil akhir.
+
+Laporan dapat diakses di sini: https://docs.google.com/document/d/1e5tD7kL--P6KL-L3wdXZl7Ib2v4hGDWVPivnIDnsjbI/edit?tab=t.0
+
+Dokumentasi ini menjadi bentuk pertanggungjawaban akademik sekaligus referensi resmi untuk project website.
+
 # 📷 Gambar & Video Tampilan Website
 https://drive.google.com/drive/folders/1SKkAqKsoFqzTx4LpfPGfc9_X4sZaI3bb
 
